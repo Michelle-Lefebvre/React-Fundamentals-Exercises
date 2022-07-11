@@ -109,3 +109,7 @@ h2 {
 .recipient {
   color: #019ad2;
 }
+
+li.message.recipient {
+  text-align: end;
+}
